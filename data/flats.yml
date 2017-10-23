@@ -1,0 +1,29 @@
+
+GPreiss:
+  name: "Gabriela home"
+  description: "Charming and homely"
+  city_name: "Lisbon, Portugal"
+  city_slug: "Portugal"
+  wifi: false
+  rating: 5
+jolham1985:
+  name: "Hamish's home"
+  description: Small flat in London
+  city_name: "London, United Kingdon"
+  city_slug: "London"
+  wifi: true
+  rating: 5
+anansilva:
+  name: "Ana's home"
+  description: Small flat in Transylvania
+  city_name: "Transylvania"
+  city_slug: "Romania"
+  wifi: true
+  rating: 5
+# monsieurpaillard:
+#   name: Romain's home
+#   description: Nice flat in Piccadilly
+#   city_name: "London, UK"
+#   city_slug: "london"
+#   wifi: true
+#   rating: 5
